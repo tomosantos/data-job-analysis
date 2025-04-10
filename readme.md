@@ -14,7 +14,7 @@ The data originates from this website: [Luke Barousse](https://lukebarousse.com/
 2. What specific skills are required for these top-paying positions?
 3. Which skills are currently most in demand within the data analyst field?
 4. What is the correlation between specific skills and higher salaries?
-5. Based on salary and demand, which skills offer the most optimal return on investment for learning?"
+5. Based on salary and demand, which skills offer the most optimal return on investment for learning?
 
 # Tools I Used
 
